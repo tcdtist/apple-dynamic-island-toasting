@@ -1,0 +1,15 @@
+module.exports = {
+  semi: false,
+  singleQuote: true,
+  printWidth: 100,
+  tabWidth: 2,
+  useTabs: false,
+  endOfLine: 'lf',
+  trailingComma: 'es5',
+  arrowParens: 'always',
+  quoteProps: 'as-needed',
+  jsxSingleQuote: false,
+  bracketSpacing: true,
+  bracketSameLine: false,
+  plugins: ['@trivago/prettier-plugin-sort-imports', 'prettier-plugin-tailwindcss'],
+}
