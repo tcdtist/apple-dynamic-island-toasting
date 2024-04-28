@@ -6,11 +6,11 @@
 
 # Preview
 
-![image](https://raw.githubusercontent.com/tcdtist/apple-dynamic-island-toasting/main/public/image-1.png)
-![image](https://raw.githubusercontent.com/tcdtist/apple-dynamic-island-toasting/main/public/image-2.png)
-![image](https://raw.githubusercontent.com/tcdtist/apple-dynamic-island-toasting/main/public/image-3.png)
-![image](https://raw.githubusercontent.com/tcdtist/apple-dynamic-island-toasting/main/public/image-4.png)
-![image](https://raw.githubusercontent.com/tcdtist/apple-dynamic-island-toasting/main/public/image-5.png)
+![image](https://tcdtist-apple-dynamic-island-toasting.vercel.app/image-1.png)
+![image](https://tcdtist-apple-dynamic-island-toasting.vercel.app/image-2.png)
+![image](https://tcdtist-apple-dynamic-island-toasting.vercel.app/image-3.png)
+![image](https://tcdtist-apple-dynamic-island-toasting.vercel.app/image-4.png)
+![image](https://tcdtist-apple-dynamic-island-toasting.vercel.app/image-5.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
